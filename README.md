@@ -9,7 +9,7 @@ The repo has :
 4. Supplementary - All the stuff that I cannot categorise properly
 
 ## Resources
-- (IITM BS System Commands YT)[https://www.youtube.com/@BSSE2001]
+- [IITM BS System Commands Youtube Channel](https://www.youtube.com/@BSSE2001)
 
 ## Important Guideline
 - IITM has no relation with the repo, it's just my document for public learning.
