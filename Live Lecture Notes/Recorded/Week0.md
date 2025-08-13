@@ -1,0 +1,45 @@
+# Week 0
+- You can use `%%bash` in Google to sue terminal.
+- **Simple Commands**
+  - `pwd` - Present working directory.
+  - `ls -la` - List all the file directory.
+  - `mkdir` - create a new folder.
+  - `cd` - Change into directory.
+  - `scho "text" > <filename> cat filename` - write and adds the texts to the file.
+- Flags are hypends that modify the behaviour of a command.
+- Arguments are inputs that a command requires to modify a file.
+  - For ex: `ls -l /home`
+- `--help` - command used to ask for help
+- `man` - It gives up manual page for the command
+- `info` - It gives a structured format information.
+- variables in bash are added to the strings by the `$` symbol.
+- Brace exposure is a method of sequence generation `{start ... end}`
+- Wildcard are special characters that are used to match patterns.
+  - `*` - Matches any number of characters including none.
+  - `?` - matches any single character.
+  - `[...]` - matches any of enclosed characters
+- In linux permissions depicts access to the file
+  - `r` - read (4)
+  - `w` - write (2)
+  - `x` - execute (1)
+  - `-rwxrwxrwx` 
+    - first three for owner
+    - mid three for group
+    - last three for others
+- `sudo` command used for administrative privilage.
+- `ls` command are used with the factors such as :
+  - `-l` - long format
+  - `-a` - list all (hidden)
+  - `-h` - human readable
+  - `-R` - recursively list folders
+  - `-t` - sort by modified time
+- **Hard Link** 
+  - `ln file1.txt file2.txt`
+  - Now file 2 will point to the same data and path to the file 1
+- **Soft Link**
+  - `ln -s /path/of/file.txt soft_link.tct`
+  - Now file soft_link.txt will point to the path of file.txt
+- Inode is a data str that contains all data of the file.
+- SSh is a securte shell that cryptographically covers terminal access
+  - `ssh [user]@[hostname]`
+- IP address is for the online and MAC address is for the offline 
