@@ -3,7 +3,7 @@
 This repo is meant to share my learnings form the System Commands course of the IITM BS data science degree course. 
 The repo has : 
 
-1. [Assignment Folder]() - Folder with assignments codes and reasons.
+1. [Assignment Folder](./Assignments/) - Folder with assignments codes and reasons.
 2. [Lecture Notes](./Lecture%20Slides/) - Made from the lectures taken from live class.
 3. [Live Lecture](./Live%20Lecture%20Notes/) Notes - Notes made during the live lecture.
 4. [BPT Codes]() - Meant to have the BPT codes.

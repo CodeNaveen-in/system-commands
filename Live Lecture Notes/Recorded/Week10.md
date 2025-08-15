@@ -30,19 +30,6 @@
 - Add the changes
 - Commit them
 - Push them
-
-## Git branching
-- Create a new branch
-- Check out the branch
-- All changes now to branch
-- Merge the branch
-
-## Contributing to other's branch
-- Fork their repo
-- Create your branch
-- Add your changes
-
-
 ```bash
 git clone <repolink>
 cd <repolink>
@@ -50,7 +37,52 @@ git init
 git config --global user.name "<User name>"
 git config --global user.email "<User email>"
 git remote add <branch name> <repolink>
+#Make changes to files
 git add .
 git commit -m "YOUR MESSAGE"
 git push
 ```
+
+## Git branching
+- Create a new branch
+- Check out the branch
+- All changes now to branch
+- Merge the branch
+
+```bash
+git branch
+git branch "Panda"
+git checkout
+git checkout Panda
+git status
+#Make changes to files
+git add .
+git commit -m "This is 2nd branch"
+git push --set-upstream origin Panda
+git checkout
+git checkout main
+git merge
+```
+
+## Contributing to other's branch
+- Fork their repo
+- Create your branch
+- Add your changes
+
+## Hardware
+-  Hardware Check -> by using `hwinfo` command.
+-  Storage check -> by using `lsblk` commmand.
+-  Free Memory Check -> by using `free` command.
+-  Battery Check -> by using `upower <link>`
+
+## Prompt Strings
+- PS1 - Primary $
+- PS2 - Secondary >
+- PS3 - Select #?
+- PS4 - Execution +
+
+## Storage Mangament
+- **LVM**
+  - Logical volume Management.
+- **RAID**
+  - Redundancy Arrays of Independent Discs
