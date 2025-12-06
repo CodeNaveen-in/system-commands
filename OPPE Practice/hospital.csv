@@ -1,0 +1,7 @@
+PatientID,Name,Age,Department,BillAmount,InsuranceCovered
+P101,Rahul,45,Cardiology,50000,Yes
+P102,Emily,32,Neurology,30000,No
+P103,Amit,60,Orthopedics,45000,Yes
+P104,Sarah,29,Dermatology,15000,No
+P105,James,50,Cardiology,70000,Yes
+P106,Anjali,40,Neurology,25000,No

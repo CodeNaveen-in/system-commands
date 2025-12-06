@@ -1,0 +1,9 @@
+[2025-12-06 10:15:32] INFO: Application started
+[2025-12-06 10:15:33] DEBUG: Initializing modules
+[2025-12-06 10:15:34] ERROR: Failed to connect to database
+[2025-12-06 10:15:35] INFO: Retrying connection
+[2025-12-06 10:15:36] WARN: Connection slow
+[2025-12-06 10:15:37] INFO: Application running
+[2025-12-06 10:15:38] DEBUG: Cache refreshed
+[2025-12-06 10:15:39] ERROR: Timeout while fetching data
+[2025-12-06 10:15:40] INFO: Application stopped
