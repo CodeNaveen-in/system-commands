@@ -1,2 +1,0 @@
-read line
-echo $file
