@@ -1,0 +1,6 @@
+/DEBUG/d
+
+s/WARN/WARNING/
+s/INFO/INFORMATION/
+
+s/\[[^]]*\]//

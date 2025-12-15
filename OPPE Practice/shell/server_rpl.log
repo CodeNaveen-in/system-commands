@@ -1,0 +1,5 @@
+[2025-12-13 09:15:32] INFORMATION: Server started
+[2025-12-13 09:15:34] CRITICAL ERROR: Database connection failed
+[2025-12-13 09:15:35] INFORMATION: Retrying connection
+[2025-12-13 09:15:36] WARN: Connection slow
+[2025-12-13 09:15:37] INFORMATION: Server running

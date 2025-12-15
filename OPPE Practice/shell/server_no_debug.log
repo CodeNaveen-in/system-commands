@@ -1,0 +1,5 @@
+[2025-12-13 09:15:32] INFO: Server started
+[2025-12-13 09:15:34] ERROR: Database connection failed
+[2025-12-13 09:15:35] INFO: Retrying connection
+[2025-12-13 09:15:36] WARN: Connection slow
+[2025-12-13 09:15:37] INFO: Server running
