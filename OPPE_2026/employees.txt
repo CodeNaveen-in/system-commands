@@ -1,0 +1,6 @@
+Name Age Department Salary
+Alice 25 HR 50000
+Bob 30 IT 60000
+Charlie 28 IT 55000
+David 35 HR 65000
+Eva 40 Finance 70000
