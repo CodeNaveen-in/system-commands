@@ -1,6 +1,14 @@
 apple
 banana
+cat
 apple
+test
 orange
 banana
+
 apple
+test
+test
+
+cat
+Americano
