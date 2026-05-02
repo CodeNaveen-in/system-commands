@@ -1,0 +1,16 @@
+[2026-05-01 08:12:10] AUTH INFO User=admin Action=LOGIN Status=SUCCESS IP=192.168.1.10
+[2026-05-01 08:14:33] DB ERROR Service=Database Code=DB500 Msg="Connection failed"
+[2026-05-01 08:15:02] AUTH WARN User=guest Action=LOGIN Status=FAILED IP=192.168.1.22
+[2026-05-01 08:16:45] API INFO Endpoint=/login Method=POST Status=200 Time=120ms
+[2026-05-01 08:18:11] SYSTEM ERROR Service=Cache Code=CACHE_TIMEOUT Msg="Redis timeout"
+[2026-05-01 08:20:00] AUTH INFO User=admin Action=LOGOUT Status=SUCCESS IP=192.168.1.10
+[2026-05-01 08:22:19] DB WARN Service=Database Code=DB300 Msg="Slow query detected"
+[2026-05-01 08:25:44] API ERROR Endpoint=/data Method=GET Status=500 Time=532ms
+[2025-05-01 08:28:10] SYSTEM INFO Service=Scheduler Msg="Job completed"
+[2025-05-01 08:30:55] AUTH ERROR User=unknown Action=LOGIN Status=BLOCKED IP=10.0.0.5
+[2025-05-01 08:18:11] SYSTEM ERROR Service=Cache Code=CACHE_TIMEOUT Msg="Redis timeout"
+[2025-05-01 08:20:00] AUTH INFO User=admin Action=LOGOUT Status=SUCCESS IP=192.168.1.10
+[2025-05-01 08:22:19] DB WARN Service=Database Code=DB300 Msg="Slow query detected"
+[2025-05-01 08:25:44] API ERROR Endpoint=/data Method=GET Status=500 Time=532ms
+[2025-05-01 08:28:10] SYSTEM INFO Service=Scheduler Msg="Job completed"
+[2025-05-01 08:30:55] AUTH ERROR User=unknown Action=LOGIN Status=BLOCKED IP=10.0.0.5

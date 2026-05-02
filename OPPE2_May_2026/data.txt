@@ -1,0 +1,10 @@
+101,John Doe,28,Delhi,john.doe@gmail.com,active
+102,Jane Smith,34,Mumbai,jane_smith@yahoo.com,inactive
+103,Rahul Verma,22,Delhi,rahulv@gmail.com,active
+104,Anita Sharma,29,Bangalore,anita.sharma@hotmail.com,active
+105,Vikram Singh,41,Jaipur,vikram.singh@gmail.com,inactive
+106,Sara Khan,25,Mumbai,sara.khan@gmail.com,active
+107,Amit Patel,37,Ahmedabad,amitp@outlook.com,inactive
+108,Pooja Mehta,31,Delhi,pooja.mehta@gmail.com,active
+109,Karan Malhotra,27,Chandigarh,karan.m@gmail.com,active
+110,Neha Gupta,30,Delhi,neha.gupta@yahoo.com,inactive
